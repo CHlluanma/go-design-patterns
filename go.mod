@@ -1,3 +1,3 @@
-module github.com/ahang7/go-design-patterns
+module github.com/CHlluanma/go-design-patterns
 
 go 1.22.3
